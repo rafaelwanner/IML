@@ -1,3 +1,2 @@
-# IML
-Introduction to Machine Learning Project Tasks
+# Introduction to Machine Learning Project Tasks
 
